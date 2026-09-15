@@ -9,10 +9,7 @@ I made my first commit today.
 | Name | Role |
 | ---- | ---- |
 | Vedvith  | Founder |
-| ...  | ... |
 | Member  | Co-founder |
-| ...  | ... |
 | Member  | Co-founder |
-| ...  | ... |
 | Member  | Co-founder |
-| ...  | ... |
+
